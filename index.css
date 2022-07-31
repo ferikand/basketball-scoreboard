@@ -98,3 +98,9 @@ h3 {
 
   color: #9aabd8;
 }
+
+.button:hover {
+  cursor: pointer;
+
+  background-color: #f94f6d;
+}
